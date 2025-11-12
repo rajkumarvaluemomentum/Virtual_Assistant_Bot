@@ -28,6 +28,9 @@ builder.Services.AddCors(options =>
 // Register GitHub service
 builder.Services.AddHttpClient<GitHubService>();
 builder.Services.AddScoped<GitHubService>();
+
+// Register Knowledge Source service
+builder.Services.AddScoped<KnowledgeSourceService>();
  
 var app = builder.Build();
  
