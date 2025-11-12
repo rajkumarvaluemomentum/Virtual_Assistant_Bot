@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "riHCo1BRAlKYabNb6z7NJOYG8LUd7Z7bM7UFdwg4ktU=",
+  "Source": "VirtualAssistant.API",
+  "BasePath": "_content/VirtualAssistant.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
