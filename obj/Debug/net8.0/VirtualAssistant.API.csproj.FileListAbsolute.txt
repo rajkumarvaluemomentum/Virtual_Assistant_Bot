@@ -413,3 +413,4 @@ C:\Users\JadiRajKumar\Downloads\VirtualAssistant.API\VirtualAssistant.API\obj\De
 C:\Users\JadiRajKumar\Downloads\VirtualAssistant.API\VirtualAssistant.API\obj\Debug\net8.0\VirtualAssistant.API.pdb
 C:\Users\JadiRajKumar\Downloads\VirtualAssistant.API\VirtualAssistant.API\obj\Debug\net8.0\VirtualAssistant.API.genruntimeconfig.cache
 C:\Users\JadiRajKumar\Downloads\VirtualAssistant.API\VirtualAssistant.API\obj\Debug\net8.0\ref\VirtualAssistant.API.dll
+C:\Users\JadiRajKumar\Downloads\VirtualAssistant.API\VirtualAssistant.API\obj\Debug\net8.0\VirtualAssistant.API.sourcelink.json
